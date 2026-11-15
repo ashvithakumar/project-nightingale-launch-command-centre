@@ -63,21 +63,6 @@ Based on the current agent configuration:
 
 User Query → Greeter Agent → Intent Classification → Specialist Agent → Contextual Response
 
-## Project Structure
-
-```text
-project-nightingale/
-│
-├── README.md
-├── projectOne.json
-│
-├── config/
-│
-├── knowledge-base/
-│
-└── docs/
-    └── architecture.md
-```
 
 ## Business Value
 
